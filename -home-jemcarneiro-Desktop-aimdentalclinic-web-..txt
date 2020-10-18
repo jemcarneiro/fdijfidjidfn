@@ -1,0 +1,1 @@
+/home/jemcarneiro/Desktop/aimdentalclinic-web/.eslintignore
